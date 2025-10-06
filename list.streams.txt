@@ -1,0 +1,16 @@
+rtsp://aibe:AIBE1234@27.54.180.146:8001/cam/realmonitor?channel=23&subtype=0
+rtsp://aibe:AIBE1234@27.54.180.146:8001/cam/realmonitor?channel=21&subtype=0
+rtsp://aibe:AIBE1234@27.54.180.146:8001/cam/realmonitor?channel=22&subtype=0
+rtsp://aibe:AIBE1234@27.54.180.146:8001/cam/realmonitor?channel=8&subtype=0
+rtsp://aibe:AIBE1234@27.54.180.146:8001/cam/realmonitor?channel=9&subtype=0
+rtsp://aibe:AIBE1234@27.54.180.146:8001/cam/realmonitor?channel=10&subtype=0
+rtsp://aibe:AIBE1234@27.54.180.146:8001/cam/realmonitor?channel=11&subtype=0
+rtsp://aibe:AIBE1234@27.54.180.146:8001/cam/realmonitor?channel=12&subtype=0
+rtsp://aibe:AIBE1234@27.54.180.146:8001/cam/realmonitor?channel=13&subtype=0
+rtsp://aibe:AIBE1234@27.54.180.146:8001/cam/realmonitor?channel=14&subtype=0
+rtsp://aibe:AIBE1234@27.54.180.146:8001/cam/realmonitor?channel=15&subtype=0
+rtsp://aibe:AIBE1234@27.54.180.146:8001/cam/realmonitor?channel=6&subtype=0
+rtsp://aibe:AIBE1234@27.54.180.146:8001/cam/realmonitor?channel=17&subtype=0
+rtsp://aibe:AIBE1234@27.54.180.146:8001/cam/realmonitor?channel=18&subtype=0
+rtsp://aibe:AIBE1234@27.54.180.146:8001/cam/realmonitor?channel=19&subtype=0
+rtsp://aibe:AIBE1234@27.54.180.146:8001/cam/realmonitor?channel=20&subtype=0
